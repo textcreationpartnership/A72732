@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of praier and thankes-giving, for the preseruation of the Queenes Maiesties life and salfetie [sic] to be vsed of the preachers and ministers of the dioces of Winchester. With a short extract of William Parries voluntarie confession, vvritten vvith his owne hand.</title>
+            <title>Liturgies. Special forms of prayer (Local : Winchester, 1585)</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72732</idno>
+            <idno type="STC">STC 16516</idno>
+            <idno type="STC">ESTC S123377</idno>
+            <idno type="EEBO-CITATION">99898843</idno>
+            <idno type="PROQUEST">99898843</idno>
+            <idno type="VID">151986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2010:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of praier and thankes-giving, for the preseruation of the Queenes Maiesties life and salfetie [sic] to be vsed of the preachers and ministers of the dioces of Winchester. With a short extract of William Parries voluntarie confession, vvritten vvith his owne hand.</title>
+                  <title>Liturgies. Special forms of prayer (Local : Winchester, 1585)</title>
+                  <author>Church of England.</author>
+                  <author>Parry, William, d. 1585.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by [Henry Denham for] Ralfe Newberie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1585]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parry was convicted in 1585.</note>
+                  <note>Actual printer's name from STC.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Henry E Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151986:1"/>
+            <!-- PDF PAGE 32 -->
+            <p>AN ORDER OF PRAIER AND THANKES-GIVING, FOR the preſeruation of the Queenes Maie<g ref="char:EOLhyphen"/>ſties life and ſalfetie: to be vſed of the Preachers and Miniſters of the Dioces of Wincheſter.</p>
+            <p>
+               <hi>With a ſhort extract of</hi> William Parries voluntarie confeſsion, vvritten vvith his owne hand.</p>
+            <p>Imprinted at London by Ralfe Newberie.</p>
+         </div>
+         <div type="instruction">
+            <pb facs="tcp:151986:2"/>
+            <!-- PDF PAGE 33 -->
+            <head>The Direction how to vſe this Order</head>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, where anie Preacher is, the next Son<g ref="char:EOLhyphen"/>day after the receauing of this order, he ſhall make a Sermon of the authoritie and Maieſtie of Princes, according to the worde of God, and how ſtreight dutie of obedience is requi<g ref="char:EOLhyphen"/>red of all good and Chriſtian ſubiects, and what a greeuous and heynous thing it is both before God and man traiterouſlie to ſeeke their deſtruction, and the ſhedding of their blood, which are the Anointed of God, ſet vp by him to be the Miniſters of his iuſtice and mercie to his people. In the ende of which Sermon, he ſhall ſet forth and declare the briefe notes of the confeſsion of the wicked purpoſe concea<g ref="char:EOLhyphen"/>ued of late by Doctor Parry, to haue murdered the Queenes Maieſtie, animated therevnto by the Pope and his Cardinals, as you maie ſee it ſet downe here following. Laſt of all he ſhall ſaie the praier here preſcribed for that purpoſe, and deſire the people to lift vp their harts to God together with him. After the praier, there ſhall be ſonge or ſaid the xxj. Pſalme, or ſome other Pſalme to the like effect.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:151986:2"/>
+            <!-- PDF PAGE 33 -->
+            <head>
+               <g ref="char:leaf">❧</g> A SHORT EXTRACT OF A VOLVNTARIE <hi>CON<g ref="char:EOLhyphen"/>feſsion, made by</hi> William Parrie, <hi>writ<g ref="char:EOLhyphen"/>ten with his owne hand, the  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  of Februarie.</hi> 1584.</head>
+            <p>
+               <seg rend="decorInit">W</seg>ILLIAM Parrie Doctor of Lavve, carieng an offenſiue minde againſt the ſtate, by reaſon of his conuiction, in a trial of life &amp; death at Nevvgate, for the attempting of the murdering of one Hugh Hare, for the vvhich notvvithſtanding he receaued her Maieſties moſt gracious pardon, and therevpon departing the Realme, in the yeare 1582. for that he conceaued no hope of aduancement here, be<g ref="char:EOLhyphen"/>cauſe he vvas in his ovvne opinion a pretended Catholique, and had not in 22. yeares receaued the Communion. At his being in the partes beyonde the ſeas, hauing firſt reconciled himſelfe to the Church of Rome at Paris, and then at Millain, con<g ref="char:EOLhyphen"/>ceaud vvith himſelfe a meane (as he pretended) to relieue the Catholiques of this Realme, vvhich vvas
+<pb facs="tcp:151986:3"/>
+               <!-- PDF PAGE 34 -->by killing of the Queenes Maieſtie.</p>
+            <p>And nothing ſtaied him in this concept, but on<g ref="char:EOLhyphen"/>lie to be aſſured in conſcience, that it vvas lavvfull and meritorious, and before the execution thereof to receaue abſolution from the Pope. For his aſſu<g ref="char:EOLhyphen"/>rance, or rather ſetling of his conſcience herein, he receaued ful ſatisfaction, firſt from an olde Ieſuit in Venice: next from the Popes Ambaſſadour, reſi<g ref="char:EOLhyphen"/>dent there, then from other good fathers (as he ter<g ref="char:EOLhyphen"/>meth them) in Lyons and Paris, and laſtlie vvas incouraged to proceede therein by the Nuntio to the Pope, reſide<g ref="char:cmbAbbrStroke">̄</g>t at Paris, vvho promiſed him, after he aſſented to that vvicked enterpriſe, to recom<g ref="char:EOLhyphen"/>mend him to the altar, and alſo to procure the like to be done generally through Paris, vvhich vvas accordingly performed in generall termes, by <hi>Re<g ref="char:EOLhyphen"/>commending of one that had taken vpon him to doe ſome daungerous enterpriſe, tending greatly to the aduancement of the Catholique religion.</hi> The ſaide Nuntio did alſo conueigh the ſaid Parries letters directed to the Pope, and to the Cardinal by the vvhich he did ſignifie to them his ful reſolution to proceede in his enterpriſe, &amp; for his better ſucceſſe in the ſame, praied his benediction Apoſtolicall, vvhervnto anſvver vvas made by letters vvritten in Rome by the Cardinal dated the laſt of Ianuarie, vvhich he receaued from him vvhen the Court lay
+<pb facs="tcp:151986:3"/>
+               <!-- PDF PAGE 34 -->at Greenevvich, in March laſt.</p>
+            <p>The tenor of thoſe letters vvas a commendati<g ref="char:EOLhyphen"/>on of his enterpriſe, an allovvance thereof, an abſo<g ref="char:EOLhyphen"/>lution in his holines name of all his ſinnes, and a requeſt to go forvvard in it, in the name of God.</p>
+            <p>VVhich letters confirmed his reſolution to kill her Maieſtie, and made it cleare in his conſcience, that it vvas lavvfull and meritorious, as he ſetteth dovvne in his ſaid confeſsion. VVherevpon he in<g ref="char:EOLhyphen"/>ſinuated himſelfe into the Court, and by vvaies &amp; meanes ſought to vvinne credit, &amp;c. to the entent to bring his vvicked purpoſe to paſſe. VVhich at ſondrie times he had done, had not the gracious prouidence of God, by ſtrange meanes, interrup<g ref="char:EOLhyphen"/>ted his purpoſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:151986:4"/>
+            <!-- PDF PAGE 35 -->
+            <head>A Praier for the Queene.</head>
+            <p>
+               <seg rend="decorInit">O</seg> 
+               <hi>Eternall God and mercifull Father, with humble heartes we confeſſe that we are not hable, either by tounge to vtter, or in mind to conceaue, the excee<g ref="char:EOLhyphen"/>ding meaſure of thine infinite goodnes and mercie towardes vs wretched ſin<g ref="char:EOLhyphen"/>ners, and towards this our noble Realme and natu<g ref="char:EOLhyphen"/>rall contrey. Not many yeares ſince, when for our vn<g ref="char:EOLhyphen"/>thankful receauing of the heauenly light and truth of thy Goſpell, we were iuſtlie caſt into thraldome and miſery, and thruſt again vnder the kingdome of dark<g ref="char:EOLhyphen"/>nes, ſo that our conſciences lay groning vnder the heauie burdens of errour, ſuperſtition, and idolatry, euen then, euen then O Lord, thou dideſt voucheſafe of thy great goodnes, not only without our deſert, but far beyond our hope &amp; expectation, to preſerue for vs thy faithfull ſeruant our gratious prince and Soue<g ref="char:EOLhyphen"/>raigne Queene Eliſabeth, and to ſaue hir from the iawes of the cruell Tigers, that then ſought to ſucke hir bloud and to worke to vs perpetuall tirannie, and bondage of conſcience. This thou diddeſt, O grati<g ref="char:EOLhyphen"/>ous Lord vndoubtedly, that ſhe might be to this thy church of England, a ſweete and tender nurſe, and that this realme vnder hir happie gouernement, might be a bleſſed Sanctuarie, and place of refuge for thy poore afflicted Saints, in theſe daungerous daies perſecuted and troubled in many contreyes for the profeſſion of thy Goſpell: yea, and that this our benefit, and their comfort might be the more aſſured, thy diuine prouidence from time to time hath many wayes mightily and miraculouſly preſerued and kept hir from the craiftie, cruell and traiterous deuiſes of hir bloudie aduerſaries, and the deadly enimies of thy
+<pb facs="tcp:151986:4"/>
+                  <!-- PDF PAGE 35 -->Goſpell, which with barberous crueltie haue ſought to extinguiſh the light thereof, by ſheading hir Ma<g ref="char:EOLhyphen"/>ieſties moſt innocent bloud: but this thy gracious goodnes &amp; mightie prouidence, neuer ſo apparently ſhewed it ſelfe, at any one time, as euen within theſe few dayes, when a traiterous ſubiect, neuer iniured or greened by hir, but ſundry times holpen, releeued, and countenanced far aboue his ſtate and worthines had of long time retained a wicked and diueliſh pur<g ref="char:EOLhyphen"/>poſe, and often ſought occaſion and oportunitie to lay violent hands vpon hir royall perſon, and to haue murdered her. But ſtill the vigilant eye of thy bleſſed prouide<g ref="char:cmbAbbrStroke">̄</g>ce did ether preuent him by ſome ſudden inter<g ref="char:EOLhyphen"/>ruption of his indeuour, or by the Maieſtie of her perſon and princely behauiour towards him, diddeſt ſtrike him ſo abaſhed: that he could not performe his conceaued bloodie purpoſe. And at the laſt this wret<g ref="char:EOLhyphen"/>ched villanie was by thy meanes diſcloſed, and his owne tunge opened to confeſſe his deteſtable and wic<g ref="char:EOLhyphen"/>ked intent. For this thy ineſtimable goodnes towards vs (O heauenlie Father) with humble heartes and mindes we thanke thee: and bleſſe thy name for euer and euer. For aſſuredlie if thou haddeſt not bene now on our ſide (as the Prophet Dauid ſaith) the whole fluds and waues of wickednes had ouerwhelmed vs, and we had beene ſunk into the bottomeles pit of in<g ref="char:EOLhyphen"/>finite and vnſpeakable miſeries. We beſeech thee therfore (O Lord) that thou wilt bleſſe vs ſo with thy grace, that we may be rightlie and trulie thankefull to thee: that is, not in word only, but in deede alſo, dai<g ref="char:EOLhyphen"/>lie ſtudieng to frame our liues according to the direc<g ref="char:EOLhyphen"/>tion of thy holie word, which thou haſt ſent among vs: And that hir Maieſtie thus feeling the mightie hande of thy prouidence fighting for her ſalfetie, may more boldlie and conſtantlie with an heroicall
+<pb facs="tcp:151986:5"/>
+                  <!-- PDF PAGE 36 -->ſpirite ſtand in the protection &amp; defenſe of thy bleſſed Church, which by thy word thou haſt planted among vs. And laſtlie that y<hi rend="sup">e</hi> cruel ſpirits of Antichriſt that ſeeke the ſubuerſion of the Goſpel, maie by the hand of thy iuſtice, feele what it is to ſet to ſale for money the innocent bloud of thine annointed Princes, which thou haſt prepared and ſet vp, to be the nurſ<g ref="char:EOLhyphen"/>ſes and protectors of thy truth: Grant this O hea<g ref="char:EOLhyphen"/>uenlie Father, for Ieſus Chriſtes ſake thy onlie ſonne our Sauiour, to whom with thee and the holie Ghoſt, be giuen all honor and glorie: world with<g ref="char:EOLhyphen"/>out ende.</hi>
+            </p>
+            <pb facs="tcp:151986:5"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:151986:6"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:151986:6"/>
+            <!-- PDF PAGE 37 -->
+         </div>
+      </body>
+   </text>
+</TEI>
